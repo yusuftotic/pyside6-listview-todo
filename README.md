@@ -1,4 +1,4 @@
-# PySide6 Model-View Todo List
+# PySide6 QListView Todo List
 
 A simple todo list application developed using PySide6 with Model-View architecture. This project was created to learn the Model-View pattern and QListView widget.
 
