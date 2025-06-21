@@ -21,7 +21,7 @@ pip install PySide6
 1. Clone the project:
 ```bash
 git clone <repo-url>
-cd todo-list-modelview
+cd pyside6-listview-todo
 ```
 
 2. Install required library:
