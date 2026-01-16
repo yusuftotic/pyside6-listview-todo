@@ -20,7 +20,7 @@ pip install PySide6
 
 1. Clone the project:
 ```bash
-git clone <repo-url>
+git clone https://github.com/yusuftotic/pyside6-listview-todo.git
 cd pyside6-listview-todo
 ```
 
